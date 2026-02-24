@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    background-color: black;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+  background-color: rgb(124, 7, 26);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  
+}
+h1{
+  background-color: rgb(124, 7, 26);
+}
+p{
+  background-color: rgb(124, 7, 26);
+}
+.nav{
+  background-color: rgb(14, 182, 239);
+  padding: 20px;
+  margin: 5px;
+  border-radius: 20px;
+}
