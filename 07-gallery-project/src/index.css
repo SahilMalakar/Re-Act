@@ -1,2 +1,10 @@
 @import "tailwindcss";
-@import "tailwindcss";
+
+/* Custom theme extension */
+@theme {
+  @keyframes shimmer {
+    100% {
+      transform: translateX(100%);
+    }
+  }
+}
